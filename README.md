@@ -8,9 +8,9 @@
 
 ##### 平台介绍
 
-**关于Vela**：Vela(https://iot.mi.com/vela)是小米公司基于开源实时操作系统NuttX打造的物联网嵌入式软件平台，Vela在各种物联网硬件平台上提供统一的软件服务，支持丰富的组件和易用的框架，用于打通碎片化的物联网应用场景。
+**关于Vela**：[Vela](https://iot.mi.com/vela)是小米公司基于开源实时操作系统NuttX打造的物联网嵌入式软件平台，Vela在各种物联网硬件平台上提供统一的软件服务，支持丰富的组件和易用的框架，用于打通碎片化的物联网应用场景。
 
-**关于NuttX**：NuttX（https://nuttx.apache.org/docs/latest/）是一个在IoT、分布式嵌入式系统、无人机系统中广泛使用的RTOS，第一个版本由 Gregory Nutt 于 2007 年发布。NuttX 可以支持 8 位到64位的处理器，支持risc-v，arm，mips，x86等主流芯片平台，按照POSIX和 ANSI 标准进行设计，支持MMU和MPU，支持多线程和进程。2019年NuttX在小米的推动下正式进入Apache基金会，小米多位资深工程师参与了NuttX社区（https://github.com/apache/incubator-nuttx）的开发和架构设计。经过多年的不懈努力，NuttX功能丰富，性能稳定，商业化成熟度高，在各种物联网产品上得到了广泛的应用。
+**关于NuttX**：[NuttX](https://nuttx.apache.org/docs/latest/)是一个在IoT、分布式嵌入式系统、无人机系统中广泛使用的RTOS，第一个版本由 Gregory Nutt 于 2007 年发布。NuttX 可以支持 8 位到64位的处理器，支持risc-v，arm，mips，x86等主流芯片平台，按照POSIX和 ANSI 标准进行设计，支持MMU和MPU，支持多线程和进程。2019年NuttX在小米的推动下正式进入Apache基金会，小米多位资深工程师参与了[NuttX社区](https://github.com/apache/incubator-nuttx)的开发和架构设计。经过多年的不懈努力，NuttX功能丰富，性能稳定，商业化成熟度高，在各种物联网产品上得到了广泛的应用。
 
 ##### 命题背景
 
@@ -28,7 +28,7 @@
 
 注：所有功能点应能在K210板卡上运行并演示
 
-![Generated](小米-【操作系统大赛】题目.files/image002.jpg)
+![Generated](files/image002.jpg)
 
 软件架构图
 
@@ -54,9 +54,9 @@
 
 #### 文档
 
-• https://nuttx.apache.org/docs/latest/：NuttX的最新文档，可以直接下载并按照要求配置和使用K210板卡
+• https://nuttx.apache.org/docs/latest/ ：NuttX的最新文档，可以直接下载并按照要求配置和使用K210板卡
 
-• https://github.com/apache/incubator-nuttx/tree/master/boards/risc-v/k210/maix-bit：NuttX文档中对K210板卡的配置和使用说明
+• https://github.com/apache/incubator-nuttx/tree/master/boards/risc-v/k210/maix-bit ：NuttX文档中对K210板卡的配置和使用说明
 
 • iso26262标准，Part6
 
@@ -64,7 +64,7 @@
 
 #### 参考代码
 
-• https://github.com/apache/incubator-nuttx/：目前Nuttx针对K210板卡具备完整支持，参赛者可在此基础上进行后续开发
+• https://github.com/apache/incubator-nuttx/ ：目前Nuttx针对K210板卡具备完整支持，参赛者可在此基础上进行后续开发
 
 #### 预期目标
 
