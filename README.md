@@ -1,0 +1,1 @@
+# proj179-xiaomi-nuttx-multidomain
