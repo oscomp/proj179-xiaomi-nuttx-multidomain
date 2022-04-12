@@ -28,7 +28,7 @@
 
 注：所有功能点应能在K210板卡上运行并演示
 
-![Generated](files/image002.jpg)
+![Generated](files/image002.png)
 
 软件架构图
 
